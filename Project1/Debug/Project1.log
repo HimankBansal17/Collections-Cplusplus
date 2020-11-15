@@ -1,0 +1,8 @@
+﻿  HelloWorld.cpp
+  RandomNumber.cpp
+D:\c++\C++Revision\C++ intro\Collections-Cplusplus\Project1\Collections.h(104,4): error C2760: syntax error: unexpected token 'void', expected 'declaration'
+D:\c++\C++Revision\C++ intro\Collections-Cplusplus\Project1\Collections.h(117): message : see reference to class template instantiation 'Collections::List<data_t>' being compiled
+D:\c++\C++Revision\C++ intro\Collections-Cplusplus\Project1\RandomNumber.cpp(16,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\c++\C++Revision\C++ intro\Collections-Cplusplus\Project1\RandomNumber.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\c++\C++Revision\C++ intro\Collections-Cplusplus\Project1\RandomNumber.cpp(43,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
